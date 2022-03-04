@@ -1,0 +1,13 @@
+{
+    "people": [
+        {
+            "id": 1,
+            "type": "client",
+            "name": "Eduardo",
+            "cpfCNPJ": "11111111111",
+            "contacts": [
+                { "type": "whatsapp", "phone": "34999999999", "nameContact": "Eduardo"}
+            ]
+        }
+    ]
+}
